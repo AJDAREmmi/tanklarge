@@ -17,3 +17,6 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### MADE BY AJDAREmmi
 ## Github : https://github.com/AJDAREmmi
+
+
+## !! I take no responsibility / Sorumluluk kabul etmiyorum !!
